@@ -87,7 +87,7 @@ class Game {
                         var command = input.nextLine();
                         if (command.startsWith("-")) {
                             return;
-                        } //else if (command.startsWith("MOVE")) {
+                        } 
                         else{
                             prmoco(Integer.parseInt(command));
                         }
