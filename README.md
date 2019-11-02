@@ -56,5 +56,5 @@ Running Client:
              2
              After this it's Player2's turn keep playing until You Win.
              
-             BINGO!!!
+             BINGO!!!.
              
