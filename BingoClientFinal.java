@@ -48,7 +48,6 @@ public static void main(String args[]) throws IOException{
             mark = 's';
             System.out.println("welcome player 2");
         }    
-        //System.out.println(mark);
         response = is.readLine();
         System.out.println(response);
         response = is.readLine();
